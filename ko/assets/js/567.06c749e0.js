@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknaver_maps_webview_bridge_sdk_docs=self.webpackChunknaver_maps_webview_bridge_sdk_docs||[]).push([[567],{567:(e,s,r)=>{r.d(s,{createArchitectureServices:()=>_.S});var _=r(1294);r(264)}}]);
